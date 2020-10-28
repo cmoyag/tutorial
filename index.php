@@ -1,6 +1,6 @@
 <?php
 
-$var='Primer commit a revertir';
+$var='Primer commit';
 
 echo $var;
 
