@@ -1,6 +1,6 @@
 <?php
 
-$var='prueba 2 prublicar los cambios';
+$var='prueba 2';
 
 echo $var;
 ?>
